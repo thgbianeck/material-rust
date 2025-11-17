@@ -1,0 +1,18 @@
+Sou Engenheiro de Software Sênior com domínio de Java, JavaScript e SQL. Estou começando a aprender Rust do zero, no meu primeiro dia de estudos.
+
+Crie um material de estudo completo e didático sobre:
+1. Instalação do Rust (rustc, cargo, rustfmt) em Linux/Windows
+2. Configuração do VSCode com rust-analyzer
+3. Criação do primeiro projeto com Cargo
+4. Estrutura de um projeto Rust (Cargo.toml, src/main.rs)
+5. Comandos essenciais: cargo build, cargo run, cargo check
+
+O material deve incluir:
+- Passo a passo detalhado da instalação
+- Explicação da anatomia do Hello World em Rust
+- Comparações com Java quando relevante (ex: fn main() vs public static void main)
+- 3 exercícios práticos progressivos (fácil, médio, desafiador)
+- Código completo e bem comentado para cada exercício
+- Dicas de troubleshooting comum
+
+Formato: markdown estruturado, com exemplos de código, analogias práticas e checkpoint no final.
