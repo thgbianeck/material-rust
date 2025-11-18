@@ -1,0 +1,28 @@
+Sou Engenheiro de Software Sênior (Java) estudando Rust. Dia 3, foco em controle de fluxo.
+
+Crie material completo sobre estruturas de controle em Rust:
+
+TEORIA:
+1. if/else como EXPRESSÕES (não apenas statements)
+2. Loops: loop, while, for
+3. Ranges (1..10, 1..=10)
+4. match - pattern matching poderoso
+5. break e continue com labels
+
+COMPARAÇÕES COM JAVA:
+- if/else: expressão vs statement
+- switch vs match (Rust é muito mais poderoso)
+- for tradicional vs for com iteradores
+
+EXERCÍCIOS PRÁTICOS:
+1. Sistema de classificação de notas (A-F) com estatísticas
+2. Gerador Fibonacci até N termos com loop/while/for
+3. Jogo de adivinhação com validação de entrada
+
+Cada exercício deve ter:
+- Código completo comentado
+- Versões alternativas (loop vs while vs for)
+- Tratamento de erros básico
+- Testes manuais sugeridos
+
+Foco em diferenças entre Rust e Java, especialmente que if/match retornam valores.
