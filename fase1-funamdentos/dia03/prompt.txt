@@ -9,7 +9,7 @@ TEORIA:
 4. match - pattern matching poderoso
 5. break e continue com labels
 
-COMPARAÇÕES COM JAVA:
+COMPARAÇÕES COM JAVA e JAVASCRIPT:
 - if/else: expressão vs statement
 - switch vs match (Rust é muito mais poderoso)
 - for tradicional vs for com iteradores
@@ -25,4 +25,7 @@ Cada exercício deve ter:
 - Tratamento de erros básico
 - Testes manuais sugeridos
 
-Foco em diferenças entre Rust e Java, especialmente que if/match retornam valores.
+Importante:
+- Nâo use muitos emojis para não poluir visualmente
+- Quando necessário use mermaid para diagramar.
+
