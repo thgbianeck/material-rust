@@ -452,7 +452,7 @@ fn classificar_com_match(nota: i32) -> &'static str {
 graph TD
     A[Função] --> B{Última Expressão}
     B -->|Sem ponto e vírgula| C[Retorno Implícito]
-    B -->|Com ponto e vírgula ;| D[Statement - Retorna ()]
+    B -->|Com ponto e vírgula ;| D["Statement - Retorna ()"]
     
     A --> E{Palavra return?}
     E -->|Sim| F[Retorno Explícito Antecipado]
