@@ -1,0 +1,29 @@
+Engenheiro de Software Sênior (Java) estudando Rust. Dia 4: Funções.
+
+Material didático sobre funções em Rust:
+
+TEORIA:
+1. Sintaxe: fn nome(param: tipo) -> tipo_retorno
+2. Parâmetros: por valor vs por referência (introdução)
+3. Retorno implícito (sem ;) vs explícito (return)
+4. Retorno de tuplas para múltiplos valores
+5. Statements vs Expressions
+
+COMPARAÇÕES COM JAVA:
+- fn vs public/private methods
+- Tipos explícitos obrigatórios vs inferência parcial
+- Retorno implícito (não existe em Java)
+- Tuplas vs múltiplos retornos com objetos
+
+EXERCÍCIOS PRÁTICOS:
+1. Biblioteca matemática: fatorial, fibonacci, primo, mdc, mmc
+2. Calculadora modular com operações separadas
+3. Sistema de validação: CPF, email, senha (básico)
+
+Para cada exercício:
+- Separar em múltiplas funções reutilizáveis
+- Usar retorno implícito onde apropriado
+- Demonstrar tuplas para retornos múltiplos
+- Testes de cada função
+
+Incluir boas práticas de nomenclatura e organização.
