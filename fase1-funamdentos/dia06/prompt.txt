@@ -1,0 +1,30 @@
+Engenheiro de Software Sênior (Java OO) aprendendo Rust. Dia 6: Structs.
+
+Material sobre Structs (similar a classes Java):
+
+TEORIA:
+1. Definição: struct Nome { campo: tipo }
+2. Instanciação e field init shorthand
+3. impl: métodos de instância (&self, &mut self, self)
+4. Funções associadas (similar a static em Java)
+5. Tuple structs e Unit structs
+6. Destruturaçãoo
+
+COMPARAÇÕES COM JAVA:
+- struct vs class (sem herança!)
+- impl vs métodos na classe
+- &self vs this
+- Funções associadas vs static methods
+
+EXERCÍCIOS:
+Faça um exercício simples e não muito longo que aborde os conteúdos já apresentados nas aulas anteriores
+
+para o exercício:
+- Struct bem modelada
+- Métodos úteis (&self, &mut self)
+- Funções associadas (construtores)
+- Exemplo de uso completo
+
+Enfatizar: Rust não tem herança, usa composição e traits (virá depois).
+use mermaiod se necessário para diagramas
+não use emojis nos titulos e não use em excesso, fica muito polúido
