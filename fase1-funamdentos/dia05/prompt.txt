@@ -1,0 +1,28 @@
+Engenheiro de Software Sênior (Java) em Rust. Dia 5: Strings e I/O
+
+Material completo sobre Strings em Rust:
+
+TEORIA:
+1. String vs &str (owned vs borrowed)
+2. String::from() e .to_string()
+3. Concatenação: +, format!, push_str
+4. Métodos: len, trim, split, replace, contains
+5. Input com std::io::stdin()
+6. Formatação: println!, format!, {:?}, {:#?}
+
+COMPARAÇÕES COM JAVA:
+- String (heap) vs &str (stack/static)
+- Java String vs Rust String ownership
+- StringBuilder vs String mutável
+
+EXERCÍCIOS:
+Faça um exercício simples e não muito longo que aborde os conteúdos já apresentados nas aulas anteriores
+
+para o exercício:
+- Uso prático de String vs &str
+- Leitura de input com tratamento de erro
+- Manipulação avançada de strings
+- Código completo e testado
+
+Foco especial na diferença String/&str que confunde iniciantes.
+use mermaiod se necessário para diagramas
