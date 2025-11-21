@@ -1,0 +1,29 @@
+Engenheiro de Software Sênior (Java) estudando Rust. Dia 7: Enums (1 hora).
+
+Material sobre Enums (MUITO mais poderosos que Java):
+
+TEORIA:
+1. Enums básicos: enum Nome { Variante1, Variante2 }
+2. Enums com dados: enum Msg { Text(String), Number(i32) }
+3. Option<T>: Some(valor) e None (sem null!)
+4. Result<T, E>: Ok(valor) e Err(erro)
+5. Pattern matching avançado com match
+6. if let e while let
+
+COMPARAÇÕES COM JAVA:
+- Java enum vs Rust enum (Rust é algebraic data type!)
+- Option vs null (Rust não tem null!)
+- Result vs Exceptions
+- match vs switch (incomparável!)
+
+EXERCÍCIOS:
+Faça um exercício simples e não muito longo que aborde os conteúdos já apresentados nas aulas anteriores
+
+para o exercício:
+- Enum bem modelado com dados associados
+- Pattern matching exaustivo
+- Tratamento adequado de Option/Result
+- Código real, não toy examples
+
+Foco: enums em Rust são revolucionários, não apenas constantes!
+use mermaiod se necessário para diagramas
