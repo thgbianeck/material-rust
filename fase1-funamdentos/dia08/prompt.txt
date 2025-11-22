@@ -1,0 +1,27 @@
+Engenheiro de Software Sênior (Java ArrayList/List) aprendendo Rust. Dia 8: Vectors.
+
+Material sobre Vec<T> (similar a ArrayList):
+
+TEORIA:
+1. Criação: Vec::new(), vec![], Vec::with_capacity()
+2. Manipulação: push, pop, insert, remove, clear
+3. Acesso: get() vs indexação direta
+4. Iteração: for, iter(), iter_mut(), into_iter()
+5. Slices: &vec[inicio..fim]
+6. Capacidade vs comprimento
+
+COMPARAÇÕES COM JAVA:
+- Vec<T> vs ArrayList<T>
+- Ownership ao iterar (importante!)
+- get() retorna Option (seguro) vs array[i] (panic)
+
+EXERCÍCIOS:
+Faça um exercício simples e não muito longo que aborde os conteúdos já apresentados nas aulas anteriores
+
+Para o exercício:
+- Operações CRUD completas
+- Iteração de diferentes formas
+- Uso de slices
+- Tratamento de índices inválidos
+
+Enfatizar diferenças de ownership ao iterar (emprestar vs consumir).
